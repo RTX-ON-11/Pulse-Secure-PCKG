@@ -13,9 +13,6 @@ sudo apt-get install gedit
 sudo apt-get install wget
 sudo apt-get install git
 sudo gedit /etc/gdm3/custom.conf
-shutdown -r 0
-
-cd Downloads/
 sudo dpkg -i ps-pulse-linux-22.7r3-b30227-64bit-installer.deb 
 sudo dpkg -i libgtkmm-3.0-1v5_3.24.5-1build1_amd64.deb 
 sudo gedit /etc/apt/sources.list.d/ubuntu.sources
