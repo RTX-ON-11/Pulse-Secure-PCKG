@@ -1,0 +1,10 @@
+Any deks amd download and execute
+appears error  DISLPAY ERROR <DISPLAY SERVER NOT SUPPIRTED
+
+
+sudo vim /etc/gdm3/custom.conf
+    WaylandEnable=false   -->  Uncomment
+    AutomaticLoginEnable = true 
+    AutomaticLogin = $USERNAME 
+
+https://www.youtube.com/watch?v=M_1UuMVYzkc
