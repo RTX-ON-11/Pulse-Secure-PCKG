@@ -61,3 +61,21 @@ sudo dpkg -i ps-pulse-linux-22.7r3-b30227-64bit-installer.deb
 sudo dpkg -i libnss3-tools_3.98-1build1_amd64.deb 
 sudo dpkg -i ps-pulse-linux-22.7r3-b30227-64bit-installer.deb 
 
+alle heruntergeladene packete: 
+
+anydesk_6.3.2-1_amd64.deb
+libatkmm-1.6-1v5_2.28.4-1build4_amd64.deb
+libcairomm-1.0-1v5_1.14.5-1build1_amd64.deb
+libc-bin_2.39-0ubuntu8.3_amd64.deb
+libc-bin_2.39-0ubuntu8_amd64.deb
+libglibmm-2.4-1t64_2.66.7-1build1_amd64.deb
+libgtkmm-3.0-1v5_3.24.5-1build1_amd64.deb
+libicu70_70.1-2_amd64.deb
+libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb
+libjavascriptcoregtk-4.0-18_2.44.2-0ubuntu0.22.04.1_amd64.deb
+libnss3-tools_3.98-1build1_amd64.deb
+libpangomm-1.4-1v5_2.46.4-1build3_amd64.deb
+libsigc++-2.0-0v5_2.12.1-2_amd64.deb
+libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb
+ps-pulse-linux-22.7r3-b30227-64bit-installer.deb
+
